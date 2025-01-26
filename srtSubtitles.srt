@@ -1,0 +1,135 @@
+0
+00:00:00,349 --> 00:00:05,269
+Indicates that Docker couldn't pull a Docker image from Amazon ECR,
+
+1
+00:00:06,239 --> 00:00:06,739
+OK,
+
+2
+00:00:07,119 --> 00:00:10,239
+the specific error is a 4 or 3 forbidden response which
+
+3
+00:00:10,239 --> 00:00:13,600
+usually points to an issue with permissions or access rights.
+
+4
+00:00:13,720 --> 00:00:13,899
+OK,
+
+5
+00:00:13,960 --> 00:00:14,640
+that's what we thought,
+
+6
+00:00:14,680 --> 00:00:15,430
+which is ***.
+
+7
+00:00:16,000 --> 00:00:16,729
+Uh-huh.
+
+8
+00:00:17,180 --> 00:00:20,729
+Since repositories with ECR are private by default,
+
+9
+00:00:20,940 --> 00:00:24,590
+both you and Player A have set up private repositories
+
+10
+00:00:24,620 --> 00:00:28,079
+that no-one else can access until you give someone else
+
+11
+00:00:28,659 --> 00:00:29,739
+specific permissions.
+
+12
+00:00:29,899 --> 00:00:30,020
+Yeah,
+
+13
+00:00:30,180 --> 00:00:32,490
+*** what we've set up are private repositories,
+
+14
+00:00:32,500 --> 00:00:33,209
+my friends.
+
+15
+00:00:33,459 --> 00:00:36,700
+Do you see even in the left-hand navigation panel for Maximus,
+
+16
+00:00:36,779 --> 00:00:40,470
+it's images that highlight a thing is under the heading private registry.
+
+17
+00:00:41,139 --> 00:00:41,150
+***,
+
+18
+00:00:42,049 --> 00:00:45,569
+*** what's really happening here is it's *** private that no one else,
+
+19
+00:00:45,810 --> 00:00:49,200
+literally no one else can have access until we give it to them specifically.
+
+20
+00:00:49,610 --> 00:00:52,330
+And that's the reason why we can just openly paste the
+
+21
+00:00:52,330 --> 00:00:55,919
+links to our registries in the chat because actually we know
+
+22
+00:00:56,290 --> 00:00:56,630
+that
+
+23
+00:00:56,840 --> 00:00:58,119
+even if you have access to that link,
+
+24
+00:00:58,209 --> 00:01:00,400
+you can't actually get access to
+
+25
+00:01:00,569 --> 00:01:04,080
+the registry itself until we give you specific access.
+
+26
+00:01:07,029 --> 00:01:07,050
+***.
+
+27
+00:01:07,169 --> 00:01:08,290
+Let's take a screenshot,
+
+28
+00:01:08,339 --> 00:01:10,129
+*** we're gonna go back to our terminal.
+
+29
+00:01:10,529 --> 00:01:13,849
+And just take a screenshot of this error right here.
+
+30
+00:01:16,180 --> 00:01:17,190
+Nice.
+
+31
+00:01:18,000 --> 00:01:20,250
+And I'm gonna paste that into
+
+32
+00:01:20,489 --> 00:01:21,760
+a box here
+
+33
+00:01:22,010 --> 00:01:23,610
+and then move on to the next question.
